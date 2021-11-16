@@ -1,10 +1,10 @@
 import React from 'react';
-import Setup from './tutorial/6-useReducer/setup/';
+import Styling from './tutorial/14-styling/Styling';
 
 export const App = () => {
 	return (
 		<div className='container'>
-			<Setup />
+			<Styling />
 		</div>
 	);
 };
